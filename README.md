@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything that intersects with cyber-security.
 - 🌱 I’m currently learning quite lot things in parrallel by reading books, blogs or any resource 
 - 💞️ I’m looking to collaborate on projects related with cyber-security.
-- 📫 You can reach me throughjatink843@gmail.com
+- 📫 You can reach me through jatink843@gmail.com
 
 <!---
 ghostint/ghostint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
